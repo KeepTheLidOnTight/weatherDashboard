@@ -3,7 +3,7 @@ The intention of this application is to alow the user to be able to both record 
 
 See here:
 <br>
-[Plan Out Your Work Day]( https://keepthelidontight.github.io/weatherDashboard/)
+[Weather Dashboard]( https://keepthelidontight.github.io/weatherDashboard/)
 <br>
 [GitHub Repository](https://github.com/KeepTheLidOnTight/weatherDashboard)
 
