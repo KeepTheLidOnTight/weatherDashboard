@@ -1,5 +1,5 @@
 # Weather Dashboard:
-The intention of this application is to alow the user to be able to both record **AND** save thier plans throughout the workday. Even if the user refreshs/leaves the page, as long as they saved their text, it should reappear upon the next loaded render.
+The intention of this application is to allow the user to enter a city of their choice. Once they pick a city, they will then be able to the see forecast for the next five days of that city. 
 
 See here:
 <br>
