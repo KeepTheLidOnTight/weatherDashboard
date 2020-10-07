@@ -8,7 +8,7 @@ See here:
 [GitHub Repository](https://github.com/KeepTheLidOnTight/weatherDashboard)
 
 # Usage Instructions
-This application will show you which hour of the work day you are in. If you have a task, enter into each hour what you need to get done. Then, click the save button on the right of each block to save your task.
+Enter a city in the search box. Click the search button and a forecast of the next five days will appear in a card below some information including: temperature, humidity, wind speed, and UV index.
 
 # Installation:
 N/A
@@ -18,12 +18,14 @@ W3 Schools: [W3](https://www.w3schools.com/js/DEFAULT.asp)
 <br>
 JavaScript: [JS](https://www.javascripttutorial.net/javascript-multidimensional-array/)
 <br>
-I would personally like to thank a majority of the members of my cohort at the University of Minnesota.
+I would personally like to thank a majority of the members of my cohort at the University of Minnesota. Especially the instructional staff.
 <br>
-My personal tutor, Greg Considine, was of great aid to me. Especially explaining the local storage functionality of this application.
-
+My personal tutor as well.
 # License Information: 
 N/A
 
 # Furthur Developments/Edits
-Add even more to this application so it includes times outside of the workday
+<ul>
+  <li>The layout first load when the bottom card is empty needs to be looked at</li>
+  <li>Need to adjust the clearing of the history of searches</li>
+</ul>
